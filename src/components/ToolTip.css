@@ -1,0 +1,10 @@
+.toolTipCls{
+	position:absolute;
+	width:120px;
+	height:60px;
+	z-index: 20;
+	border:1px solid black;
+	background-color: white;
+	font-size: 12px;	
+}
+

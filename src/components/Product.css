@@ -1,0 +1,19 @@
+
+.productDetails{
+	float:right;
+	font-size: 14px;
+}
+
+.productCls{
+	/*width:25%;*/
+	height: 105px;
+	margin-bottom:20px;	
+}
+
+.titleCls{
+	width: 125px;
+    
+}
+.price{
+	font-weight: bold;
+}

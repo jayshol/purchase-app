@@ -1,0 +1,25 @@
+.itemRow{
+	/*width: 30%;*/
+	background-color: yellow;
+	height:30px;
+	padding:5px;
+	position:relative;
+}
+
+.priceClass{
+	float:right;
+}
+
+.boldClass{
+	float:right;
+	font-weight: bold;	
+}
+
+.subLabel{
+	font-size: 13px;
+}
+
+.labelCls{
+	position:absolute;
+	cursor:pointer;
+}
