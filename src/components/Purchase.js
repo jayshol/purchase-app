@@ -26,7 +26,7 @@ console.log(props.id);
 			<Item 
 			label="Est. total"
 			bold 
-			value={`$ ${Math.round(100 * (props.price + props.tax - props.savings) * (1 - props.discount / 100)) / 100}`}
+			value={`${Math.round(100 * (props.price + props.tax - props.savings) * (1 - props.discount / 100)) / 100}`}
 			/>
 			<DropdownControl 
 				showText="See Item Details"
